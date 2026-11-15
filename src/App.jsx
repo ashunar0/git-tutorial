@@ -4,7 +4,8 @@ function App() {
 
   return (
     <div>
-      <h1>佐藤太郎</h1>
+      <h1>タイトル</h1>
+      <p>田中次郎</p>
     </div>
   )
 }
